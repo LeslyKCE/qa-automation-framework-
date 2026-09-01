@@ -55,3 +55,64 @@ console.log (edad)
 
 edad = "25";
 console.log (edad)
+
+const usuario = "Admin";
+let intentos = "3";
+
+console.log (usuario)
+console.log (intentos)
+
+intentos = "2";
+console.log (intentos)
+
+intentos = "1";
+console.log (intentos)
+
+const modulo = "Contactos";
+let registros = "10";
+
+console.log (modulo)
+console.log (registros)
+
+registros = "11";
+console.log (registros)
+
+registros = "12";
+console.log (registros)
+
+const producto = "laptop";
+const precio = 2500;
+
+console.log (producto + " a " + precio)
+
+console.log (typeof producto)
+console.log (typeof precio)
+
+const activo = true;
+const eliminado = false;
+
+console.log (activo)
+console.log (eliminado)
+console.log (typeof activo)
+
+const usuarioActivo = true;
+const cuentaBloqueada = false;
+
+console.log (usuarioActivo)
+console.log (cuentaBloqueada)
+console.log (typeof cuentaBloqueada)
+
+const correo = null;
+console.log (correo)
+
+console.log (typeof correo)
+
+let propietario;
+propietario = "Lesly";
+console.log (propietario)
+
+let responsable;
+console.log (responsable)
+
+responsable = "Admin";
+console.log (responsable)
