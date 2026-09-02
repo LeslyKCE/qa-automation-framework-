@@ -68,10 +68,10 @@ console.log (intentos)
 intentos = "1";
 console.log (intentos)
 
-const modulo = "Contactos";
+const mmodulo = "Contactos";
 let registros = "10";
 
-console.log (modulo)
+console.log (mmodulo)
 console.log (registros)
 
 registros = "11";
@@ -116,3 +116,18 @@ console.log (responsable)
 
 responsable = "Admin";
 console.log (responsable)
+
+const nombrePrueba = "Crear contacto";
+const modulo = "Contactos";
+const rregistros = 10;
+const pruebaExitosa = true;
+const error = null;
+let responsablePrueba;
+responsablePrueba = "Lesly"
+
+console.log (nombrePrueba)
+console.log (modulo)
+console.log (rregistros)
+console.log (pruebaExitosa)
+console.log (error)
+console.log (responsablePrueba)
